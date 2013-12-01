@@ -1,0 +1,7 @@
+"cyberpunk"
+{
+	"base"		"nutscript"
+	"title"		"Cyberpunk 2077"
+	"author"	"TheFreeMan and Fayz_Golden"
+	"menusystem" "1"
+}

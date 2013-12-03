@@ -1,7 +1,7 @@
-"cyberpunk"
+"nscyberpunk"
 {
 	"base"		"nutscript"
 	"title"		"Cyberpunk 2077"
-	"author"	"TheFreeMan and Fayz_Golden"
+	"author"	"TheFreeMan | Fayz_Golden"
 	"menusystem" "1"
 }
